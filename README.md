@@ -25,10 +25,10 @@ As an enhanced fork of the original X-UI project, 3X-UI provides improved stabil
 ## Quick Start
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mhsanaei/3x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/xqqman/x-ui/master/install.sh)
 ```
 
-For full documentation, please visit the [project Wiki](https://github.com/MHSanaei/3x-ui/wiki).
+For full documentation, please visit the [project Wiki](https://github.com/xqqman/x-ui/wiki).
 
 ## A Special Thanks to
 
